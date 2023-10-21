@@ -1,0 +1,7 @@
+a = int(input("Veuillez saisir la moyenne de Français:"))
+b = int(input("Veuillez saisir la moyenne de Mathématique:"))
+c = int(input("Veuillez saisir la moyenne de Géographie:"))
+d = int(input("Veuillez saisir la moyenne d'Informatique':"))
+
+moyenneGenerale = (a + b + c + d)/4
+print(moyenneGenerale)
